@@ -35,7 +35,7 @@ end
 
 def retrieve_first_element_from_array(array)
   create_an_array = ["wine","water", "am", "juice", "tea", "milk"]
-  create_an_array [2]
+  .create_an_array ("am")
 end
 
 def retrieve_last_element_from_array(array)
