@@ -34,8 +34,9 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  create_an_array = ["wine","water", "am", "juice", "tea", "milk"]
-  .create_an_array ("am")
+  
+  create_an_array = ["am" = 2]
+    .create_an_array ("am")
 end
 
 def retrieve_last_element_from_array(array)
